@@ -1,0 +1,24 @@
+{
+  "home": "Beranda",
+  "dashboard": "Dasbor",
+  "projects": "Proyek",
+  "tasks": "Tugas",
+  "reporting": "Laporan",
+
+  "overview": "Ringkasan",
+  "notifications": "Notifikasi",
+  "analytics": "Analysis",
+  "savedreports": "Laporan Tersimpan",
+  "tradehistory": "Riwayat Jual/Beli",
+  "userreport": "Laporan Pengguna",
+  
+  "downloadcsv": "Unduh CSV",
+  "add": "Tambah",
+  "orderamountvalue":"{{val, currency(IDR)}}",
+  "view": "Tinjau",
+  "previous": "Sebelumnya",
+  "next": "Berikutnya",
+  "processing": "Pemrosesan",
+  "success": "Sukses",
+  "declined": "Ditolak"
+}
